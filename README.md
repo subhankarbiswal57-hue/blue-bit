@@ -1,0 +1,3 @@
+# Blue Bit
+
+Activity tracker.
